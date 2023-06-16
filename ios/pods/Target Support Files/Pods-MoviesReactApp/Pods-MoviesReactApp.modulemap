@@ -1,0 +1,6 @@
+module Pods_MoviesReactApp {
+  umbrella header "Pods-MoviesReactApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

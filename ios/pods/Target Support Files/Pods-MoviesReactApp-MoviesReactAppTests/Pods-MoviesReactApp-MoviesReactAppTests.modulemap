@@ -1,0 +1,6 @@
+module Pods_MoviesReactApp_MoviesReactAppTests {
+  umbrella header "Pods-MoviesReactApp-MoviesReactAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
